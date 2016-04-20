@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Because this way I can use git to control that directory.
